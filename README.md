@@ -1,3 +1,3 @@
 # Programa-Git1
-##descripcion 
+## descripcion 
 Esto es una prueba de github (aprendiendo)
